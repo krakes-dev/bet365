@@ -301,6 +301,12 @@ source. Set the ones you care about, leave the rest.
   values for the testing rig.
 - Anything tied to a specific account.
 
+## 📞 Contact
+
+For inquiries, discussions or **paid projects / freelance work**:  
+**Telegram:** [@azulax1](https://t.me/azulax1)  
+**Discord:** dch002
+
 ## references
 
 - `decompiled.js` is the full decompiled VM, all 3.2k lines of
